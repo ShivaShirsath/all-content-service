@@ -315,6 +315,19 @@ var common_config = {
     'M8_NE_READ',
     'M9_NE_READ',
     'M9_NE_TBImage',
+    'M4_TA_MECH',
+    'M5_TA_MECH',
+    'M6_TA_MECH',
+    'M7_TA_MECH',
+    'M8_TA_MECH',
+    'M9_TA_MECH',
+    'M4_TA_READ',
+    'M5_TA_READ',
+    'M6_TA_READ',
+    'M7_TA_READ',
+    'M8_TA_READ',
+    'M9_TA_READ',
+    'M9_TA_TBImage',
   ]
 };
 
